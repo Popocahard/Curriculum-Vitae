@@ -1,0 +1,26 @@
+.entreprise {
+    color: #D8B367;
+}
+.bar {
+    width: 70%;
+}
+.barProgress {
+    width: 100%;
+    background-color: #D8B367;
+}
+.barLoading {
+    height: 20px;
+    background-color: black;
+}
+.load-90 {
+    width: 90%;
+}
+.load-85 {
+    width: 85%;
+}
+.load-70 {
+    width: 70%;
+}
+.load-40 {
+    width: 40%;
+}
